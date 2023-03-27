@@ -18,7 +18,7 @@ npm install react-native-simple-store
 Since this wrapper uses [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage), it needs to be linked to work properly:
 
 ```
-react-native link @react-native-community/async-storage
+react-native link @react-native-async-storage/async-storage
 ```
 
 ## Use In Project
